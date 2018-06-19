@@ -20,7 +20,7 @@
 }
 
 .app,.callout-backdrop,canvas {
-  background-image: url(https://i.imgur.com/Mu4SNn6.jpg)!important;
+  background-image: linear-gradient(20deg,cyan,magenta); !important;
   background-size: cover;
 }
 
